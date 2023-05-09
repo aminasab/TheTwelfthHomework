@@ -1,0 +1,15 @@
+C:\Users\дом\source\repos\Librarian\bin\Debug\net7.0\Librarian.exe
+C:\Users\дом\source\repos\Librarian\bin\Debug\net7.0\Librarian.deps.json
+C:\Users\дом\source\repos\Librarian\bin\Debug\net7.0\Librarian.runtimeconfig.json
+C:\Users\дом\source\repos\Librarian\bin\Debug\net7.0\Librarian.dll
+C:\Users\дом\source\repos\Librarian\bin\Debug\net7.0\Librarian.pdb
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.csproj.AssemblyReference.cache
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.AssemblyInfoInputs.cache
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.AssemblyInfo.cs
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.csproj.CoreCompileInputs.cache
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.dll
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\refint\Librarian.dll
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.pdb
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\Librarian.genruntimeconfig.cache
+C:\Users\дом\source\repos\Librarian\obj\Debug\net7.0\ref\Librarian.dll
