@@ -1,0 +1,15 @@
+C:\Users\дом\source\repos\RegularCustomer\bin\Debug\net7.0\RegularCustomer.exe
+C:\Users\дом\source\repos\RegularCustomer\bin\Debug\net7.0\RegularCustomer.deps.json
+C:\Users\дом\source\repos\RegularCustomer\bin\Debug\net7.0\RegularCustomer.runtimeconfig.json
+C:\Users\дом\source\repos\RegularCustomer\bin\Debug\net7.0\RegularCustomer.dll
+C:\Users\дом\source\repos\RegularCustomer\bin\Debug\net7.0\RegularCustomer.pdb
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.csproj.AssemblyReference.cache
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.AssemblyInfoInputs.cache
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.AssemblyInfo.cs
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.csproj.CoreCompileInputs.cache
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.dll
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\refint\RegularCustomer.dll
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.pdb
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\RegularCustomer.genruntimeconfig.cache
+C:\Users\дом\source\repos\RegularCustomer\obj\Debug\net7.0\ref\RegularCustomer.dll
