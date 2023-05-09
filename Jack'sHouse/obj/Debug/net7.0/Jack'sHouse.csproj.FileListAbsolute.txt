@@ -1,0 +1,15 @@
+C:\Users\дом\source\repos\Jack'sHouse\bin\Debug\net7.0\Jack'sHouse.exe
+C:\Users\дом\source\repos\Jack'sHouse\bin\Debug\net7.0\Jack'sHouse.deps.json
+C:\Users\дом\source\repos\Jack'sHouse\bin\Debug\net7.0\Jack'sHouse.runtimeconfig.json
+C:\Users\дом\source\repos\Jack'sHouse\bin\Debug\net7.0\Jack'sHouse.dll
+C:\Users\дом\source\repos\Jack'sHouse\bin\Debug\net7.0\Jack'sHouse.pdb
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.csproj.AssemblyReference.cache
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.AssemblyInfoInputs.cache
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.AssemblyInfo.cs
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.csproj.CoreCompileInputs.cache
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.dll
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\refint\Jack'sHouse.dll
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.pdb
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\Jack'sHouse.genruntimeconfig.cache
+C:\Users\дом\source\repos\Jack'sHouse\obj\Debug\net7.0\ref\Jack'sHouse.dll
